@@ -12,10 +12,6 @@ The XR Design Handbook is a repository containing a collection of readme files s
 
 The purpose of this repository is to provide a comprehensive resource for designers, developers, and anyone interested in XR design. By consolidating design principles from different companies, the XR Design Handbook aims to offer valuable insights and best practices for creating immersive and engaging XR experiences.
 
-## Contents
-
-Coming soon
-
 ## Usage
 
 The XR Design Handbook can be accessed by cloning or downloading the repository. Each readme file contains a summary of the XR design principles provided by the respective organization. Designers and developers can refer to these summaries to gain insights into the recommended practices and considerations for designing XR experiences.
