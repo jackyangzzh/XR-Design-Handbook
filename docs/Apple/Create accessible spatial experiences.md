@@ -12,7 +12,7 @@ Original video: [Create accessible spatial experiences](https://developer.apple.
 This video discusses accessibility in spatial computing, emphasizing inclusive design for people with disabilities. It covers VoiceOver support, gesture controls, RealityKit's accessibility component, vision accessibility considerations, camera anchors, alternate inputs like Dwell Control and Pointer Control, cognitive accessibility, hearing accessibility with captions, and the importance of creating inclusive spatial experiences.
 
 
-## Bullet Points
+## Bullet points
 1. 💡 Accessibility is crucial in spatial computing to ensure that individuals with disabilities can fully engage with immersive experiences. It's important to consider the diverse needs of users, including those with visual, motor, cognitive, and hearing impairments.
 
 2. 🗣️ VoiceOver support is available on this platform, allowing people who are blind or have low vision to interact with apps using finger pinches on their hands. VoiceOver provides spoken descriptions of on-screen elements, enabling users to navigate and interact with the app.
@@ -36,13 +36,13 @@ This video discusses accessibility in spatial computing, emphasizing inclusive d
 
 
 ## Keywords:
-1. **Spatial computing**: The use of digital technologies to create immersive experiences that integrate the physical and virtual worlds.
-2. **Accessibility**: The design of products, devices, services, or environments that can be used by people with disabilities.
-3. **VoiceOver**: A built-in screen reader available on Apple platforms that provides spoken feedback to assist users who are blind or have low vision.
-4. **RealityKit**: A framework by Apple for creating augmented reality (AR) and virtual reality (VR) experiences.
-5. **Dynamic Type**: A feature that allows users to adjust the text size in apps to make it more readable.
-6. **SwiftUI**: A user interface toolkit by Apple for building apps across all Apple platforms.
-7. **Dwell Control**: An accessibility feature that allows users to interact with UI elements without using their hands.
-8. **Cognitive accessibility**: The design of products and experiences to accommodate individuals with cognitive disabilities or impairments.
-9. **AVKit and AVFoundation**: Frameworks by Apple for working with audio and video content in apps.
-10. **Captioning**: The process of displaying text on screen that corresponds to the audio in a video or other media.
+- **Spatial computing**: The use of digital technologies to create immersive experiences that integrate the physical and virtual worlds.
+- **Accessibility**: The design of products, devices, services, or environments that can be used by people with disabilities.
+- **VoiceOver**: A built-in screen reader available on Apple platforms that provides spoken feedback to assist users who are blind or have low vision.
+- **RealityKit**: A framework by Apple for creating augmented reality (AR) and virtual reality (VR) experiences.
+- **Dynamic Type**: A feature that allows users to adjust the text size in apps to make it more readable.
+- **SwiftUI**: A user interface toolkit by Apple for building apps across all Apple platforms.
+- **Dwell Control**: An accessibility feature that allows users to interact with UI elements without using their hands.
+- **Cognitive accessibility**: The design of products and experiences to accommodate individuals with cognitive disabilities or impairments.
+- **AVKit and AVFoundation**: Frameworks by Apple for working with audio and video content in apps.
+- **Captioning**: The process of displaying text on screen that corresponds to the audio in a video or other media.

@@ -43,30 +43,30 @@ The transcript emphasizes the need for designing accessible VR experiences by fo
 
 
 ## Keywords
-1. **User Variability**: The diversity of user abilities, comfort levels, and preferences. This should be taken into account when designing VR experiences for inclusivity and comfort.
+- **User Variability**: The diversity of user abilities, comfort levels, and preferences. This should be taken into account when designing VR experiences for inclusivity and comfort.
 
-2. **User Research**: A process used to understand user behaviors, needs, and motivations through various observation techniques and feedback methodologies.
+- **User Research**: A process used to understand user behaviors, needs, and motivations through various observation techniques and feedback methodologies.
 
-3. **Cognitive Load**: The total amount of mental effort being used in a user's working memory. Exceeding the cognitive load can lead to discomfort and confusion.
+- **Cognitive Load**: The total amount of mental effort being used in a user's working memory. Exceeding the cognitive load can lead to discomfort and confusion.
 
-4. **Spatialized Audio**: Sound that exists in three dimensions, used in VR to enhance immersion and help users orient themselves in the virtual space.
+- **Spatialized Audio**: Sound that exists in three dimensions, used in VR to enhance immersion and help users orient themselves in the virtual space.
 
-5. **Visual Accessibility**: The degree to which a product allows users with varying visual abilities to consume and interact with its content.
+- **Visual Accessibility**: The degree to which a product allows users with varying visual abilities to consume and interact with its content.
 
-6. **Low Vision Simulations**: Tools used by designers to simulate what visually impaired users might experience, driving empathy and leading to improved design decisions.
+- **Low Vision Simulations**: Tools used by designers to simulate what visually impaired users might experience, driving empathy and leading to improved design decisions.
 
-7. **Voice User Interface (VUI)**: A system that enables users to interact with a digital product or service using voice commands.
+- **Voice User Interface (VUI)**: A system that enables users to interact with a digital product or service using voice commands.
 
-8. **Reading in VR**: Refers to the legibility and comfort level of reading text in VR, influenced by factors such as font choice, size, and placement.
+- **Reading in VR**: Refers to the legibility and comfort level of reading text in VR, influenced by factors such as font choice, size, and placement.
 
-9.  **Motion Sickness**: A common issue in VR where users feel nauseous due to a disconnect between perceived movement in the virtual world and the physical stillness of the real world.
+- **Motion Sickness**: A common issue in VR where users feel nauseous due to a disconnect between perceived movement in the virtual world and the physical stillness of the real world.
 
-10. **Captions and Subtitles**: Text that appears onscreen during a video to provide written versions of spoken dialogue or translations in different languages.
+- **Captions and Subtitles**: Text that appears onscreen during a video to provide written versions of spoken dialogue or translations in different languages.
 
-11. **Font Customization**: Allowing users to choose from a range of fonts for on-screen text to improve readability and accessibility.
+- **Font Customization**: Allowing users to choose from a range of fonts for on-screen text to improve readability and accessibility.
 
-12. **Caption/Subtitle Placement**: The spatial location of captions and subtitles in VR, which can be adjusted to enhance user comfort and understanding.
+- **Caption/Subtitle Placement**: The spatial location of captions and subtitles in VR, which can be adjusted to enhance user comfort and understanding.
 
-13. **Caption/Subtitle Speed**: The pace at which captions or subtitles are displayed, ideally matching the speed of spoken dialogue.
+- **Caption/Subtitle Speed**: The pace at which captions or subtitles are displayed, ideally matching the speed of spoken dialogue.
 
-14. **Visual Indicators**: Visual cues or signals used to guide users in VR, enhancing their understanding and navigation of the virtual environment.
+- **Visual Indicators**: Visual cues or signals used to guide users in VR, enhancing their understanding and navigation of the virtual environment.

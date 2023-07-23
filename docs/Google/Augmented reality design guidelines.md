@@ -32,22 +32,22 @@ Google's AR design guidelines recommend creating immersive, user-friendly AR exp
 10. 🎨 **UI Elements**: The User Interface (UI) should enhance, not detract from, the immersive AR experience. Avoid sudden pop-ups, full-screen takeovers, and persistent 2D overlays that constantly remind the user of the artificial nature of the AR world. The UI should be easy to navigate, employing familiar interaction models and supporting both landscape and portrait modes. This reduces the learning curve and allows users to focus more on the AR experience itself.
 
 ## Keywords
-1. **AR (Augmented Reality)**: This is a technology that superimposes a computer-generated image on a user's view of the real world, providing a composite view.
+- **AR (Augmented Reality)**: This is a technology that superimposes a computer-generated image on a user's view of the real world, providing a composite view.
    
-2. **Translation**: In the context of AR, translation refers to moving a virtual object along a surface or from one surface to another.
+- **Translation**: In the context of AR, translation refers to moving a virtual object along a surface or from one surface to another.
 
-3. **Rotation**: This is the process of turning an object around in any direction in the AR environment.
+- **Rotation**: This is the process of turning an object around in any direction in the AR environment.
 
-4. **Scaling**: In AR, scaling refers to the process of increasing or decreasing the size of a virtual object.
+- **Scaling**: In AR, scaling refers to the process of increasing or decreasing the size of a virtual object.
 
-5. **Gestures**: These are specific physical actions, like pinching or dragging, that a user performs to interact with their device in the AR environment.
+- **Gestures**: These are specific physical actions, like pinching or dragging, that a user performs to interact with their device in the AR environment.
 
-6. **Proximity**: In AR, proximity can refer to the relative distance or orientation of a user or object to other entities in the digital space.
+- **Proximity**: In AR, proximity can refer to the relative distance or orientation of a user or object to other entities in the digital space.
 
-7. **Multiplayer Experience**: In AR, this refers to an experience where different users can interact with the same virtual environment.
+- **Multiplayer Experience**: In AR, this refers to an experience where different users can interact with the same virtual environment.
 
-8. **UI (User Interface)**: This term refers to the graphical layout of an application. In AR, it includes the buttons users click on, the text they read, the images, sliders, and all the rest of the items the user interacts with.
+- **UI (User Interface)**: This term refers to the graphical layout of an application. In AR, it includes the buttons users click on, the text they read, the images, sliders, and all the rest of the items the user interacts with.
 
-9. **Onboarding**: This is a term for the mechanism through which new users are introduced to an application. In AR, it can involve explaining how to interact with the virtual environment.
+- **Onboarding**: This is a term for the mechanism through which new users are introduced to an application. In AR, it can involve explaining how to interact with the virtual environment.
 
-10. **Error State**: This refers to a condition where the AR program or application encounters an unexpected situation or doesn't function as intended.
+- **Error State**: This refers to a condition where the AR program or application encounters an unexpected situation or doesn't function as intended.
