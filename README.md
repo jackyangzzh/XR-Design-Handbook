@@ -19,10 +19,6 @@ Whether it's:
 - Correcting or updating existing ones
 - Sharing your own experiences and insights
 
-## ⚠️ What to know? 
-
-It's imperative to remember that the XR Design Handbook, though meticulously created, draws its summaries from ChatGPT, an AI-powered language model. Efforts have been invested to ensure precision, but the inherent limitations might mean some nuances or contexts from the original sources aren't wholly encapsulated. For a holistic understanding, it's always best to delve into the primary resources from the highlighted companies.
-
 ## 📄 License
 
 Every piece of information in the XR Design Handbook is protected under the MIT License. To delve into specifics, kindly consult the LICENSE file.
