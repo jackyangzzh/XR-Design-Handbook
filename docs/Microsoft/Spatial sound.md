@@ -10,7 +10,7 @@ Original article: [Spatial sound](https://learn.microsoft.com/en-us/windows/mixe
 ## TL;DR
 Spatial sound in mixed-reality environments, using head-related transfer function (HRTF), augments user experiences by providing auditory cues that inform about application states, reinforce interactions, and simulate real-world sound propagation. While enriching the immersive quality, developers are advised to exercise restraint in sound use to maintain usability and avoid cognitive overload.
 
-## Bullet Points
+## Bullet points
 1. 🔈 **In low-light situations, our sense of hearing keeps us safe**: This capability evolved as a survival mechanism, allowing humans to react to unseen threats and obstacles, even in the dark. In technology, this concept is used to create more immersive and intuitive experiences.
 
 2. 🎧 **HoloLens utilizes spatial audio to enhance mixed reality experiences**: Spatial audio creates a more realistic soundscape by simulating sounds from various directions and distances, increasing immersion and aiding user orientation within the virtual environment.
@@ -32,11 +32,11 @@ Spatial sound in mixed-reality environments, using head-related transfer functio
 10. 🎚️ **Play, stop, pause, resume, loop, and fire-and-forget sound assets can be controlled by developers**: These functions provide developers with granular control over audio playback, allowing them to finely tune the audio experience to match visual or interactive elements in the mixed reality environment.
 
 ## Keywords
-1. **Spatial audio**: A technique for creating a three-dimensional sound field, giving the illusion of sound coming from various directions and distances.
-2. **HoloLens**: A pair of mixed reality smart glasses developed and manufactured by Microsoft.
-3. **Field of view**: The observable area that can be seen at a particular moment.
-4. **HRTF (Head-Related Transfer Function) audio**: A response that characterizes how an ear receives a sound from a point in space, used in sound synthesis and spatial audio to simulate directionality.
-5. **Spectral changes**: Modifications in the frequency content of a signal.
-6. **Pinna**: The visible part of the ear that resides outside the head.
-7. **Frame-by-frame basis**: In this context, it refers to the ability to change audio sources for each frame in a sequence, allowing for very detailed control over sound localization.
-8. **Fire-and-forget sound assets**: This refers to playing a sound asset and not needing to control it further once it's started.
+- **Spatial audio**: A technique for creating a three-dimensional sound field, giving the illusion of sound coming from various directions and distances.
+- **HoloLens**: A pair of mixed reality smart glasses developed and manufactured by Microsoft.
+- **Field of view**: The observable area that can be seen at a particular moment.
+- **HRTF (Head-Related Transfer Function) audio**: A response that characterizes how an ear receives a sound from a point in space, used in sound synthesis and spatial audio to simulate directionality.
+- **Spectral changes**: Modifications in the frequency content of a signal.
+- **Pinna**: The visible part of the ear that resides outside the head.
+- **Frame-by-frame basis**: In this context, it refers to the ability to change audio sources for each frame in a sequence, allowing for very detailed control over sound localization.
+- **Fire-and-forget sound assets**: This refers to playing a sound asset and not needing to control it further once it's started.

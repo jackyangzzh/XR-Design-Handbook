@@ -22,13 +22,13 @@ The video discusses designing immersive experiences with focus on visual and mot
 - 🌊 **Avoiding Sustained Oscillations:** To ensure a comfortable experience, avoid oscillating motions, especially those with frequencies around 0.2 Hz. If such motions are necessary, keep the amplitude low, make the content semi-transparent, and provide an oscillation-free alternative.
 
 ## Bullet Points
-1. **Visual Depth Cues:** Signals given to the brain about the spatial relationships of objects, aiding in perceiving depth. They include size, blur, motion, background, light, shadow, occlusion, and texture density.
-2. **Converge:** The inward turning of the eyes to fixate on a near object. In this context, it refers to the viewer's eyes aligning to perceive the intended depth of an object in a 3D space.
-3. **Double Vision:** A condition where an individual sees two images of a single object. It can occur if the viewer's eyes aren't aligning correctly due to inconsistent or misleading visual depth cues.
-4. **Disparity:** The difference in image location of an object seen by the left and right eyes. Correct disparity is essential for comfortable stereo viewing.
-5. **Eye Effort:** The amount of effort or strain the eyes undergo to view certain content. Reducing eye effort, by adjusting content location and parameters, enhances comfort.
-6. **Head-Locked Content:** Content that maintains a fixed position relative to the user's head movement. In immersive experiences, world-locked or lazy-follow content is preferred to enhance comfort.
-7. **Vestibular System:** The sensory system responsible for motion perception, head position, and spatial orientation. Conflicting visual and vestibular motion information can cause discomfort like dizziness or nausea.
-8. **Oscillations:** Regular back-and-forth movements. Sustained oscillations, especially at around 0.2 Hz, can be visually uncomfortable and should be minimized or made less perceptible.
-9. **Focus of Expansion:** The point in a visual scene where all motion vectors originate, towards which all movement seems to head. Slow and predictable motion of this point aids in motion comfort.
-10. **Reduce Motion Accessibility Setting:** A feature that minimizes certain interface movement effects to provide a simpler visual experience. Designers should offer oscillation-free alternatives when this setting is activated.
+- **Visual Depth Cues:** Signals given to the brain about the spatial relationships of objects, aiding in perceiving depth. They include size, blur, motion, background, light, shadow, occlusion, and texture density.
+- **Converge:** The inward turning of the eyes to fixate on a near object. In this context, it refers to the viewer's eyes aligning to perceive the intended depth of an object in a 3D space.
+- **Double Vision:** A condition where an individual sees two images of a single object. It can occur if the viewer's eyes aren't aligning correctly due to inconsistent or misleading visual depth cues.
+- **Disparity:** The difference in image location of an object seen by the left and right eyes. Correct disparity is essential for comfortable stereo viewing.
+- **Eye Effort:** The amount of effort or strain the eyes undergo to view certain content. Reducing eye effort, by adjusting content location and parameters, enhances comfort.
+- **Head-Locked Content:** Content that maintains a fixed position relative to the user's head movement. In immersive experiences, world-locked or lazy-follow content is preferred to enhance comfort.
+- **Vestibular System:** The sensory system responsible for motion perception, head position, and spatial orientation. Conflicting visual and vestibular motion information can cause discomfort like dizziness or nausea.
+- **Oscillations:** Regular back-and-forth movements. Sustained oscillations, especially at around 0.2 Hz, can be visually uncomfortable and should be minimized or made less perceptible.
+- **Focus of Expansion:** The point in a visual scene where all motion vectors originate, towards which all movement seems to head. Slow and predictable motion of this point aids in motion comfort.
+- **Reduce Motion Accessibility Setting:** A feature that minimizes certain interface movement effects to provide a simpler visual experience. Designers should offer oscillation-free alternatives when this setting is activated.

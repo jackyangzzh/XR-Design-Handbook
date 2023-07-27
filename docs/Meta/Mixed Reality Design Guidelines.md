@@ -24,13 +24,13 @@ This article discusses how Passthrough technology in VR/AR applications can impr
 
 
 ## Keywords
-1. **Passthrough:** In the context of virtual or augmented reality, Passthrough refers to a feature that allows users to see the real world around them while wearing a VR/AR headset.
-2. **Spatial Anchor:** A spatial anchor is a point of reference used in augmented and mixed reality experiences to keep virtual objects correctly positioned in the real world as viewed through a device.
-3. **Scene:** In the context of VR/AR, a scene is the virtual environment or space that the user can interact with.
-4. **Onboarding:** The process of integrating a new user into a system, service, or product, teaching them how to use it.
-5. **Selective Passthrough:** A feature where only certain parts of the real-world view are shown in a VR environment.
-6. **1:1 Match:** A perfect correspondence between two sets of things; in this context, it refers to the matching between virtual and physical spaces.
-7. **Stylization:** The process of designing or presenting in accordance with a style or stylistic pattern.
-8.  **Occlusions:** In the context of VR/AR, occlusion refers to the effect where an object appears to be blocked by another, adding to the realism of the scene.
-9.  **Insight SDK:** A Software Development Kit provided by Oculus that provides features to help developers create VR experiences.
-10. **Naive Lighting:** A method of manipulating lighting in VR experiences by adjusting the transparency of elements, creating an illusion of the real environment being lit or dimmed.
+- **Passthrough:** In the context of virtual or augmented reality, Passthrough refers to a feature that allows users to see the real world around them while wearing a VR/AR headset.
+- **Spatial Anchor:** A spatial anchor is a point of reference used in augmented and mixed reality experiences to keep virtual objects correctly positioned in the real world as viewed through a device.
+- **Scene:** In the context of VR/AR, a scene is the virtual environment or space that the user can interact with.
+- **Onboarding:** The process of integrating a new user into a system, service, or product, teaching them how to use it.
+- **Selective Passthrough:** A feature where only certain parts of the real-world view are shown in a VR environment.
+- **1:1 Match:** A perfect correspondence between two sets of things; in this context, it refers to the matching between virtual and physical spaces.
+- **Stylization:** The process of designing or presenting in accordance with a style or stylistic pattern.
+-  **Occlusions:** In the context of VR/AR, occlusion refers to the effect where an object appears to be blocked by another, adding to the realism of the scene.
+-  **Insight SDK:** A Software Development Kit provided by Oculus that provides features to help developers create VR experiences.
+- **Naive Lighting:** A method of manipulating lighting in VR experiences by adjusting the transparency of elements, creating an illusion of the real environment being lit or dimmed.
