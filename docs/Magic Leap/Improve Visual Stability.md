@@ -1,3 +1,8 @@
+---
+layout: default
+title: Improve Visual Stability
+parent: Magic Leap
+---
 
 # Improve Visual Stability
 Original article: [Improve Visual Stability](https://developer-docs.magicleap.cloud/docs/guides/best-practices/improve-visual-stability)
