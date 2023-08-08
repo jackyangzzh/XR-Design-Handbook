@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Others
+title: Resources
 has_children: true
-permalink: docs/Others
+permalink: docs/Resources
 ---
 
-# Others
+# Resources
 {: .no_toc }
