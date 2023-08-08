@@ -11,43 +11,35 @@ Original article: [XR Accessibility User Requirements](https://www.w3.org/TR/xau
 This document outlines accessibility needs for XR. The focus is on inclusivity for users with disabilities through features like motion-agnostic interactions, voice commands, and customization. XR's broad applications require addressing challenges to ensure accessibility for diverse disabilities and integrating guidelines like WCAG and WebXR API for a universally inclusive experience.
 
 ## Bullet points
-1. 🕶️ **XR Definition & Diversity**: XR, or Extended Reality, encompasses a broad range of immersive technologies. It's not limited to just one experience but includes a variety of hardware, applications, and techniques. The term emphasizes the diverse nature of these technologies and the increasing emphasis on making them accessible to all users, regardless of their physical or cognitive abilities.
+1. **🌐 Extended Reality (XR)**: XR encompasses immersive technologies from virtual environments to real-world augmentations. It represents the merging of augmented reality (AR), virtual reality (VR), and other immersive tech. The emphasis is on its potential breadth and the need to make such experiences universally accessible to everyone.
 
-2. 🌐 **XR's Spectrum**: XR is not limited to just gaming or education; it spans across multiple domains. It covers everything from head-mounted displays used in immersive virtual worlds to mobile devices with tracking capabilities that augment our real-world surroundings. The possibilities within this spectrum are vast and constantly evolving.
+2. **🎮 XR Spectrum**: XR is versatile. Whether it's the immersive nature of VR using head-mounted displays that transport users to completely digital worlds or AR's mobile device overlays that enhance our real-world surroundings, the breadth of experiences in XR is continually expanding.
 
-3. 🔧 **Accessibility Challenges**: As with all technological advancements, XR comes with its set of challenges, especially regarding accessibility. It's essential for designers and developers to understand the nuances of XR and ensure they address the needs of all users, including those with disabilities. Often, there's a gap in knowledge or lack of access to resources that can inform better, more inclusive design.
+3. **⚠️ Accessibility Challenges**: As XR technologies advance, there's an increasing responsibility to ensure that these experiences are accessible to all, considering users with disabilities and diverse needs. Accessibility shouldn't be an afterthought but integral to XR design.
 
-4. 🎮 **Disability in Gaming**: The gaming landscape in XR presents specific challenges for users with disabilities. From games that heavily rely on motion controls to VR headsets that necessitate certain physical postures, the realm is rife with barriers. There's also the issue of manufacturers locking certain games to specific hardware, further limiting accessibility.
+4. **🎲 Disability in Gaming**: While XR gaming offers unprecedented immersion, it also presents unique challenges. Motion-based controls, while innovative, may exclude some users. Additionally, hardware-specific games can limit who can participate, creating barriers to a fully inclusive gaming environment.
 
-5. 🔊 **Categories of Disabilities**: When addressing accessibility in XR, it's vital to consider the broad spectrum of disabilities, which includes auditory, cognitive, neurological, physical, speech, and visual. Each category has its unique needs, and XR solutions should strive to accommodate them.
+5. **🚹 Disability Categories**: Designing XR experiences requires a comprehensive understanding of disabilities, from auditory impairments to cognitive challenges and physical limitations. Addressing the diverse needs of each category ensures a more inclusive XR space.
 
-6. 🔑 **Multimodality in XR**: At the core of XR is the concept of multimodality. Rather than relying on a single sense or mode of interaction, XR leverages multiple senses, enhancing the experience. Whether it's sight, sound, touch, or even smell and taste in some advanced applications, XR aims to create a holistic, immersive experience.
+6. **🖐️ Multimodality**: XR stands out by engaging multiple senses simultaneously. Whether it's seeing a lifelike simulation, feeling haptic feedback, or hearing 3D audio, XR aims to create a rich, multi-sensory environment that mirrors real-world interactions.
 
-7. 🎛️ **Input and Output Challenges**: A fundamental aspect of XR is how users interact with and receive feedback from the system. Input methods vary widely, from traditional means like keyboards to advanced methods like eye tracking. On the other hand, XR outputs can be as varied as tactile feedback, auditory cues, or even simulated smells and tastes in cutting-edge applications.
+7. **⌨️ Input/Output in XR**: The ways users can interact with XR are diverse. Traditional inputs like keyboards and mice are joined by gesture recognition, eye tracking, and more. Similarly, outputs aren't just visual; they can range from tactile feedback to spatial audio cues.
 
-8. 🌏 **Affordances in XR**: Affordances in the world of XR refer to the potential actions a user can perform. It's not just about what's possible but also about what's intuitive and accessible. When a user sees a virtual object, it should be evident how they can interact with it, regardless of their abilities.
+8. **🔍 Affordances**: In XR, clarity in interaction is paramount. Users should easily discern possible actions or interactions in the virtual space, making experiences both intuitive and accessible to everyone, regardless of prior XR exposure.
 
-9. 🔓 **WCAG & WebXR**: The integration of Web Content Accessibility Guidelines (WCAG) with the WebXR API underscores the movement toward making virtual and augmented reality experiences on the web universally accessible. This collaboration ensures that as the web embraces XR, it does so with inclusivity at its core.
-    
-10. 🔍 **Immersive Semantics and Customization**: Users employing assistive technology seek intuitive navigation, accurate object identification, and interaction within XR environments. This entails robust affordances for navigation and accurate descriptions understood by assistive tech, as well as customizable controls, object filtering, and querying.
+9. **🌍 WCAG & WebXR**: As the web evolves to include XR experiences, adherence to the Web Content Accessibility Guidelines (WCAG) remains crucial. Integrating these guidelines with the WebXR API is a significant step toward a more inclusive digital realm.
 
-11. 🤖 **Motion Agnostic Interactions**: People with physical disabilities require interactions in XR that are independent of bodily movement. This involves enabling device-independent actions, ensuring uniform access across the interface, and accommodating multiple input methods to cater to various needs.
+10. **🔖 Immersive Semantics**: Within XR, elements should be self-explanatory. Users, especially those using assistive technologies, should find navigation seamless, objects identifiable, and interactions straightforward. This clarity enhances the overall user experience.
 
-12. 🎨 **Immersive Personalization**: Users with cognitive and learning disabilities require personalizing XR experiences. This includes support for symbol sets layered over objects, the ability to mute non-critical content, and accommodating personal preferences.
+11. **🕺 Motion Agnostic Interactions**: Not all users can (or want to) rely on extensive bodily movements in XR. Designing for motion-agnostic interactions ensures that physical disabilities don't prevent anyone from enjoying immersive experiences.
 
-13. 🎯 **Interaction and Target Customization**: Individuals with limited mobility or vision challenges may need larger target sizes for controls. Meeting these needs involves fine motion control avoidance, adequate spacing around hit targets, and minimizing actions or gestures required for tasks.
+12. **🎨 Immersive Personalization**: Personalizing XR is especially crucial for users with cognitive and learning disabilities. Customizable overlays, the ability to mute potentially distracting content, and accommodating personal preferences can make XR more accessible and enjoyable.
 
-14. 🎙️ **Voice Commands**: Users with limited mobility benefit from controlling XR through voice commands. This requires navigation and interaction via voice activation, ideally integrated with native screen readers or voice assistants.
+13. **🎯 Interaction Customization**: Users with visual or mobility challenges might need tailored interactions. XR designs should be adaptable, offering larger interaction targets and simplifying gestures, ensuring everyone can navigate with ease.
 
-15. 🎨** Color Changes**: Addressing the needs of color-blind users, customization of colors in XR environments is crucial for better understanding controls, affordances, and warnings. This entails providing high-contrast options based on luminosity and color contrast requirements.
+14. **🎤 Voice & Gestural Interactions**: Voice commands and gestures offer alternative ways to interact within XR, especially beneficial for those with mobility restrictions. By recognizing and responding to voice or movement, XR becomes more universally accessible.
 
-16. 🔍 **Magnification Context and Resetting**: Users relying on screen magnification need to understand their view context. This involves allowing users to check and reset view context, along with enlarging interface elements where necessary.
-
-17. ⚠️ **Critical Messaging and Alerts**: Screen magnification users must be made aware of critical messages without losing focus. This may involve prioritizing these alerts for assistive technology understanding and potentially routing them to a second screen device.
-
-18. 👥 **Gestural Interfaces and Interactions**: Blind users might want to interact with gestures in XR. This includes support for touch screen accessibility gestures, a self-voicing option for virtual menus, and remapping gestures for different actions.
-
-19. 📣 **Signing Videos and Text Description Transformation**: Deaf or hard of hearing individuals may prefer sign language in XR. This involves allowing text, objects, or descriptions to be presented via pre-recorded signing avatars, which should align with specific size recommendations based on research.
+15. **✋ Signing & Descriptions**: For the deaf or hard of hearing, visual communication methods, such as sign language, can be more effective. Incorporating signing avatars or providing detailed visual cues ensures these users receive the full experience in XR.
 
 ## Keywords
 - **Accessibility**: The design of products, devices, services, or environments to be usable by people with disabilities.
