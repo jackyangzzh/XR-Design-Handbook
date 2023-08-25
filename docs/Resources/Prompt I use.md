@@ -12,4 +12,4 @@ Inspired by [The best youtube summary prompt I've come up with](https://www.redd
 
 - Create 10 numbered bullet points (each with an appropriate emoji) that summarize the key point from the document, each bullet point should prioritize on being clear and comprehensive instead of succinct. Elaborate on each bullet point wherever possible. You are to act like an expert in the subject the document is written about.
 
-- Extract the most important keywords and any complex words not known to the average reader as well as any acronyms mentioned. For each keyword and complex word, provide an explanation and definition based on its occurrence in the document.
+- Extract the most important keywords and any complex words not known to the average reader as well as any acronyms mentioned as bullet points. For each keyword and complex word, provide an explanation and definition based on its occurrence in the document.
