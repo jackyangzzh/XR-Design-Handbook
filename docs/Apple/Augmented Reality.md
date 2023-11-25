@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create accessible spatial experiences
+title: Augmented reality
 parent: Apple
 ---
 
