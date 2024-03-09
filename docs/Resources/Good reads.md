@@ -10,7 +10,7 @@ parent: Resources
 - [Microsoft Mixed Reality Design](https://learn.microsoft.com/en-us/windows/mixed-reality/design/design)
 - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) 
 - [Design at Meta](https://design.facebook.com/)
-- [Unproject Spatial Design Library](https://www.unproject.ai/blog-pages/spatial-design-library)
+- [Unproject Spatial Design Library](https://www.unproject.ai/blog-pages/spatial-design-library) (thanks [@Viba](https://medium.com/@viba)!)
 
 ## AR / VR News
 - [Road to VR](https://www.roadtovr.com/): A leading independent VR news publication covering PC VR, Quest, PSVR, Apple Vision Pro, and more.
