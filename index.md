@@ -1,7 +1,7 @@
 ---
 title: XR Design Handbook
 layout: home
-nav_order: 1
+nav_order: 0
 ---
 
 # 📖 XR Design Handbook
